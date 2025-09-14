@@ -31,7 +31,5 @@ It uses PivotTables, PivotCharts, slicers, and conditional formatting to analyze
 ## 🖼 Screenshot
 Here is a preview of the dashboard:  
 
-![Dashboard Screenshot](<img width="1407" height="802" alt="image" src="https://github.com/user-attachments/assets/ea10ec76-fea0-4c71-b523-05c3f428008f" />
-)   
+![Dashboard Screenshot](https://github.com/user-attachments/assets/ea10ec76-fea0-4c71-b523-05c3f428008f)
 
----
