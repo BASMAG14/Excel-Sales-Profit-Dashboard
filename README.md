@@ -1,23 +1,37 @@
-
-# Sales & Profit Dashboard – Excel
+# 📊 Sales & Profit Dashboard – Excel
 
 This project is an interactive **Sales & Profit Dashboard** built in Microsoft Excel.  
 It uses PivotTables, PivotCharts, slicers, and conditional formatting to analyze sales performance.
 
-## Features
-- KPIs: Total Sales, Total Profit
-- Sales by Category
-- Top 5 Customers
-- Customer Count by Year
-- Interactive Map of customer locations
-- Dynamic filtering with slicers
+---
 
-## Files
-- `Dashboard.xlsx` → Full Excel dashboard
-- `Dashboard.pdf` → PDF preview
-- `Screenshots/` → Images of the dashboard
+## 🚀 Features
+- **KPIs:** Total Sales, Total Profit  
+- **Sales by Category**  
+- **Top 5 Customers**  
+- **Customer Count by Year**  
+- **Interactive Map** of customer locations  
+- **Dynamic Filtering** with slicers  
 
-## Tools Used
-- Microsoft Excel
-- PivotTables & PivotCharts
-- Data Visualization & Dashboard Design
+---
+
+## 📂 Files
+- `Dashboard.xlsx` → Full Excel dashboard  
+- `Screenshots/` → Images of the dashboard  
+
+---
+
+## 🛠 Tools Used
+- Microsoft Excel  
+- PivotTables & PivotCharts  
+- Data Visualization & Dashboard Design  
+
+---
+
+## 🖼 Screenshot
+Here is a preview of the dashboard:  
+
+![Dashboard Screenshot](<img width="1407" height="802" alt="image" src="https://github.com/user-attachments/assets/ea10ec76-fea0-4c71-b523-05c3f428008f" />
+)   
+
+---
